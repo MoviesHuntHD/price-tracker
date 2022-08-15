@@ -11,12 +11,8 @@ const reply_markup = {
   //common repky markup
   inline_keyboard: [
     [
-      { text: "👨‍💻 Developer", url: "https://github.com/AffanTheBest" },
-      { text: "🛒 Deals Channel", url: "https://t.me/aslootdeals" },
-    ],
-    [
-      { text: "🔃 Updates", url: "https://t.me/asprojects" },
-      { text: "💁‍♂️ Support", url: "https://t.me/assupportchat" },
+      { text: "🛒 Deals Channel", url: "https://t.me/TheDealsMaster" },
+      { text: "💁‍♂️ Support", url: "https://t.me/TDM_Owner" },
     ],
   ],
 };
