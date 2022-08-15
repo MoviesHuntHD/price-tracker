@@ -3,7 +3,7 @@
     "description": "A telegram bot which can track prices for amazon and flipkart products. (Soon more)",
     "keywords": ["price-tracker", "amazon", "flipkart", "ecommerce", "tracker", "telegram", "bot"],
     "repository": "https://github.com/AffanTheBest/price-tracker",
-    "website": "https://asloot.cf",
+    "website": "https://dealsworth.in",
     "scripts": {
       "worker": "npm start"
     },
